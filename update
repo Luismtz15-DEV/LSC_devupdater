@@ -1,0 +1,5 @@
+{
+  "version": "1.2.5",
+  "changelog": "Corrección DynDNS, mejora de estabilidad y notificaciones.",
+  "download": "https://github.com/grupolaseclat/LykonUpdater/releases/download/v1.2.5/LykonSetup_v1.2.5.exe"
+}
